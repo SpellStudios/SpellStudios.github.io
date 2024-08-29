@@ -9,8 +9,6 @@ Over the course of my journey, I've honed a diverse set of skills, including:
 
 📌**C# Fluency** 
 
-📌**ECS:** Proficient with Entitas, ensuring efficient and scalable game systems
-
 📌**OOP and SOLID**
 
 📌**DI:** Mastery in Dependency Injection with Zenject
